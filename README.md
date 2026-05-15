@@ -39,7 +39,7 @@ This project is provided as-is, and may be updated over time. If you have questi
 **Server Tests:** Badge temporarily removed until the Tailspin-Shelter workflow is available.
 
 # Azure Pipelines Status 
-**NEEDS UPDATING:** [![Build Status](https://dev.azure.com/PUnlimited/PetsWorkshop/_apis/build/status%2FServer%20Tests?branchName=main)](https://dev.azure.com/PUnlimited/PetsWorkshop/_build/latest?definitionId=10&branchName=main)
+Azure Pipelines badge not currently configured.
 
 # Environments:
  - **Dev**: (**To be configured**)
