@@ -27,30 +27,30 @@ You can find the list of maintainers in [CODEOWNERS](./.github/CODEOWNERS).
 
 This project is provided as-is, and may be updated over time. If you have questions, please create a work item in the [Tailspin-Shelter](https://dev.azure.com/DevRelLabs/Tailspin-Shelter/_dashboards/dashboard/1cdebbdb-2ee5-4476-ae9c-cf0cf444f9bb) team project in **Azure DevOps**. (**NOTE**: Access to the Azure DevOps team project is limited. If you do not have access, please [open an issue in this repo](https://github.com/devrellabs/tailspin-shelter/issues).)
 
-# Azure Boards Status
+## Azure Boards Status
 
 [![Board Status](https://dev.azure.com/DevRelLabs/1bb20260-8e3b-405c-af9a-b9323112d33f/76a66a5a-e481-4621-ab98-44f6903b120e/_apis/work/boardbadge/4bcb0f7d-b132-46ed-bb20-f1309cbcf7f5?columnOptions=1)](https://dev.azure.com/DevRelLabs/1bb20260-8e3b-405c-af9a-b9323112d33f/_boards/board/t/76a66a5a-e481-4621-ab98-44f6903b120e/Stories/)
 
-# GitHub Actions Status 
+## GitHub Actions Status 
 [![CodeQL](https://github.com/devrellabs/Tailspin-Shelter/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/devrellabs/Tailspin-Shelter/actions/workflows/github-code-scanning/codeql)
 
 [![Dependabot Updates](https://github.com/devrellabs/Tailspin-Shelter/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/devrellabs/Tailspin-Shelter/actions/workflows/dependabot/dependabot-updates)
 
 **Server Tests:** Badge temporarily removed until the Tailspin-Shelter workflow is available.
 
-# Azure Pipelines Status 
+## Azure Pipelines Status 
 Azure Pipelines badge not currently configured.
 
-# Environments:
+## Environments:
  - **Dev**: (**To be configured**)
  - **QA**: (**To be configured**)
  - **NEEDS UPDATING:** **Production**: [Web Site](https://client.braveforest-9b03311d.westus.azurecontainerapps.io/)
 
-# Key Azure Resources
+## Key Azure Resources
 - [Resource Group](https://portal.azure.com/#@daveburnisonyahoo.onmicrosoft.com/resource/subscriptions/9078e9ae-b0c7-4eb8-8054-e9bf5e1875ad/resourceGroups/DevRelLabs-Tailspin-Shelter-Prod/overview)
 - **NEEDS UPDATING:** [Dashboard](https://portal.azure.com/#@daveburnisonyahoo.onmicrosoft.com/dashboard/arm/subscriptions/9078e9ae-b0c7-4eb8-8054-e9bf5e1875ad/resourcegroups/rg-production/providers/microsoft.portal/dashboards/dash-wgry4yau64yb6)
 
-# Integrations 
+## Integrations 
 
 | <a href="https://dev.azure.com/DevRelLabs/Tailspin-Shelter/_dashboards/dashboard/1cdebbdb-2ee5-4476-ae9c-cf0cf444f9bb"><img src="./images/azure_devops_icon.png" width="100" height="100"></a> |
 |--------------|
