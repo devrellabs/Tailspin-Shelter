@@ -1,7 +1,7 @@
 # ![Zava Logo](/images/zava-logo.svg) Tailspin Shelter - A Zava supported non-profit organization 
 
 
-| <a href="https://client.braveforest-9b03311d.westus.azurecontainerapps.io"><img src="./images/The%20Adoption%20of%20Coco.JPG" height="300"></a> | <a href="https://client.braveforest-9b03311d.westus.azurecontainerapps.io"><img src="./images/The%20Tailspin%20Shelter%20Mascot.jpg" width="300" height="300"></a> |
+| <a href="https://client.braveforest-9b03311d.westus.azurecontainerapps.io"><img src="./images/The Adoption of Coco.JPG" height="300"></a> | <a href="https://client.braveforest-9b03311d.westus.azurecontainerapps.io"><img src="./images/The Tailspin Shelter Mascot.jpg" width="300" height="300"></a> |
 |---------|---------|
 
 This repository is used to demonstrate the full capabilities of the **GitHub platform**, including integrations with **Azure Boards** and **Azure Pipelines**. 
