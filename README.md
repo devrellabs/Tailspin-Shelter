@@ -50,8 +50,9 @@ This project is provided as-is, and may be updated over time. If you have questi
 
 # Integrations 
 
-- <a href="https://dev.azure.com/DevRelLabs/Tailspin-Shelter/_dashboards/dashboard/1cdebbdb-2ee5-4476-ae9c-cf0cf444f9bb"><img src="./images/azure_devops_dashboard_icon.png" width="100" height="100"></a>
-- [![Azure DevOps Dashboard](https://dev.azure.com/DevRelLabs/Tailspin-Shelter/_dashboards/dashboard/1cdebbdb-2ee5-4476-ae9c-cf0cf444f9bb)
+| <a href="https://dev.azure.com/DevRelLabs/Tailspin-Shelter/_dashboards/dashboard/1cdebbdb-2ee5-4476-ae9c-cf0cf444f9bb"><img src="./images/azure_devops_icon.png" width="100" height="100"></a> |
+|--------------|
+| Azure DevOps |
 
 # Check out the GitHub Monthly Enterprise Roundup (MER)
 GitHub is shipping new features, product updates, and best practices faster than ever. To help you stay ahead, the GitHub Enterprise Advocacy team curates a monthly roundup — bringing you a concise, enterprise-focused summary of the most important updates you might have missed.
