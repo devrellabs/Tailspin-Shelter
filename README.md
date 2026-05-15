@@ -36,7 +36,7 @@ This project is provided as-is, and may be updated over time. If you have questi
 
 [![Dependabot Updates](https://github.com/devrellabs/Tailspin-Shelter/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/devrellabs/Tailspin-Shelter/actions/workflows/dependabot/dependabot-updates)
 
-**NEEDS UPDATING:** [![Server Tests](https://github.com/devrellabs/pets-workshop/actions/workflows/server-test.yml/badge.svg)](https://github.com/devrellabs/pets-workshop/actions/workflows/server-test.yml)
+**Server Tests:** Badge temporarily removed until the Tailspin-Shelter workflow is available.
 
 # Azure Pipelines Status 
 **NEEDS UPDATING:** [![Build Status](https://dev.azure.com/PUnlimited/PetsWorkshop/_apis/build/status%2FServer%20Tests?branchName=main)](https://dev.azure.com/PUnlimited/PetsWorkshop/_build/latest?definitionId=10&branchName=main)
