@@ -4,20 +4,20 @@
 | <a href="https://client.braveforest-9b03311d.westus.azurecontainerapps.io"><img src="./images/The%20Adoption%20of%20Coco.JPG" height="300"></a> | <a href="https://client.braveforest-9b03311d.westus.azurecontainerapps.io"><img src="./images/The%20Tailspin%20Shelter%20Mascot.jpg" width="300" height="300"></a> |
 |---------|---------|
 
-This repository is used to demonstrate the full capabilitiess of the **GitHub platform**, including integrations with **Azure Boards** and **Azure Pipelines**. 
+This repository is used to demonstrate the full capabilities of the **GitHub platform**, including integrations with **Azure Boards** and **Azure Pipelines**. 
 
 The code is a website for a fictional dog shelter, with a [Flask](https://flask.palletsprojects.com/en/stable/) backend using [SQLAlchemy](https://www.sqlalchemy.org/) and an [Astro](https://astro.build/) frontend using [Tailwind CSS](https://tailwindcss.com/).
 
 
-## Getting starte
+## Getting started
 
 > **[Get started learning about development with GitHub!](./content/README.md)**
 > 
-> **[New to GitHub Copilot? Check out our list of GitHub Copilot resourcres!](./content/GitHub-Copilot-Resources.md)**
+> **[New to GitHub Copilot? Check out our list of GitHub Copilot resources!](./content/GitHub-Copilot-Resources.md)**
 
 ## License 
 
-This projec is licensed under the terms of the MIT open source license. Please refer to the [LICENSE](./LICENSE) for the full terms.
+This project is licensed under the terms of the MIT open source license. Please refer to the [LICENSE](./LICENSE) for the full terms.
 
 ## Maintainers 
 
@@ -27,7 +27,7 @@ You can find the list of maintainers in [CODEOWNERS](./.github/CODEOWNERS).
 
 This project is provided as-is, and may be updated over time. If you have questions, please create a work item in the [Tailspin-Shelter](https://dev.azure.com/DevRelLabs/Tailspin-Shelter/_dashboards/dashboard/1cdebbdb-2ee5-4476-ae9c-cf0cf444f9bb) team project in **Azure DevOps**. (**NOTE**: Access to the Azure DevOps team project is limited. If you do not have access, please [open an issue in this repo](https://github.com/devrellabs/tailspin-shelter/issues).)
 
-# Azure Boards Statuz
+# Azure Boards Status
 
 [![Board Status](https://dev.azure.com/DevRelLabs/1bb20260-8e3b-405c-af9a-b9323112d33f/76a66a5a-e481-4621-ab98-44f6903b120e/_apis/work/boardbadge/4bcb0f7d-b132-46ed-bb20-f1309cbcf7f5?columnOptions=1)](https://dev.azure.com/DevRelLabs/1bb20260-8e3b-405c-af9a-b9323112d33f/_boards/board/t/76a66a5a-e481-4621-ab98-44f6903b120e/Stories/)
 
