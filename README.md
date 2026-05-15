@@ -36,19 +36,20 @@ This project is provided as-is, and may be updated over time. If you have questi
 
 [![Dependabot Updates](https://github.com/devrellabs/Tailspin-Shelter/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/devrellabs/Tailspin-Shelter/actions/workflows/dependabot/dependabot-updates)
 
-**Server Tests:** Badge temporarily removed until the Tailspin-Shelter workflow is available.
+**Server Tests:** 
+🔲 Badge temporarily removed until the Tailspin-Shelter workflow is available.
 
 ## Azure Pipelines Status 
-Azure Pipelines badge not currently configured.
+🔲 Azure Pipelines badge not currently configured.
 
 ## Environments:
  - **Dev**: (**To be configured**)
  - **QA**: (**To be configured**)
- - **NEEDS UPDATING:** **Production**: [Web Site](https://client.braveforest-9b03311d.westus.azurecontainerapps.io/)
+ - **🔲 NEEDS UPDATING:** **Production**: [Web Site](https://client.braveforest-9b03311d.westus.azurecontainerapps.io/)
 
 ## Key Azure Resources
 - [Resource Group](https://portal.azure.com/#@daveburnisonyahoo.onmicrosoft.com/resource/subscriptions/9078e9ae-b0c7-4eb8-8054-e9bf5e1875ad/resourceGroups/DevRelLabs-Tailspin-Shelter-Prod/overview)
-- **NEEDS UPDATING:** [Dashboard](https://portal.azure.com/#@daveburnisonyahoo.onmicrosoft.com/dashboard/arm/subscriptions/9078e9ae-b0c7-4eb8-8054-e9bf5e1875ad/resourcegroups/rg-production/providers/microsoft.portal/dashboards/dash-wgry4yau64yb6)
+- **🔲 NEEDS UPDATING:** [Dashboard](https://portal.azure.com/#@daveburnisonyahoo.onmicrosoft.com/dashboard/arm/subscriptions/9078e9ae-b0c7-4eb8-8054-e9bf5e1875ad/resourcegroups/rg-production/providers/microsoft.portal/dashboards/dash-wgry4yau64yb6)
 
 ## Integrations 
 
