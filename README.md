@@ -36,8 +36,8 @@ This project is provided as-is, and may be updated over time. If you have questi
 
 [![Dependabot Updates](https://github.com/devrellabs/Tailspin-Shelter/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/devrellabs/Tailspin-Shelter/actions/workflows/dependabot/dependabot-updates)
 
-**Server Tests:** 
-🔲 Badge temporarily removed until the Tailspin-Shelter workflow is available.
+**🔲 Server Tests:** 
+Badge temporarily removed until the Tailspin-Shelter workflow is available.
 
 ## Azure Pipelines Status 
 🔲 Azure Pipelines badge not currently configured.
