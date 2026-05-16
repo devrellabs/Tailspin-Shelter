@@ -10,4 +10,4 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ::pwrun::chmod {+}x ./scripts/*.sh `n
 ./scripts/start-app.sh
 
-::nus::Are there any new user stories assigned to me in the Tailspin-Shelter team project? If so, show me the details.
+::nus::Are there any new user stories assigned to me in the Tailspin-Shelter project? If so, show me the details.
