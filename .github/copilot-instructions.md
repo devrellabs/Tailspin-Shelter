@@ -8,7 +8,7 @@ When getting work items using MCP Server for Azure DevOps, always try to use bat
 
 # Using MCP Server for Azure Devops to "get my work items"
 
-1. Get my assigned work items for `PetsWorkshop` project.
+1. Get my assigned work items for `Tailspin-Shelter` project.
 
 2. Take Id's from that result and fetch work items in batch. Get fields Id, Type, Title, State, and Microsoft.VSTS.Common.Priority fields. Ignore any Test Case or Test Plan work item types.
 
@@ -18,9 +18,9 @@ When getting work items using MCP Server for Azure DevOps, always try to use bat
 
 When the user wants to "clean up my epics", do the following:
 
-1. Get work items for `PetsWorkshop` project, `PetsWorkshop Team` team, and backlog category `Microsoft.EpicCategory`. When you get work items in batch, get ID, State, Priority, StackRank, and Description fields.
+1. Get work items for `Tailspin-Shelter` project, `Tailspin-Shelter Team` team, and backlog category `Microsoft.EpicCategory`. When you get work items in batch, get ID, State, Priority, StackRank, and Description fields.
 
-2. Fetch wiki page content from `https://dev.azure.com/PUnlimited/PetsWorkshop/_wiki/wikis/PetsWorkshop.wiki/5/Defining-Good-Epics`
+2. Fetch wiki page content from `https://dev.azure.com/DevRelLabs/Tailspin-Shelter/_wiki/wikis/Tailspin-Shelter.wiki/Tailspin-Shelter.wiki/Defining-Good-Epics`
 
 3. Go through the description and title of each Epic where the state equals "New". If they do not align with the wiki page, update the title and description to match wiki page guidelines. I like using an emoji as a prefix before the title text. The description should be in markdown format. Make sure you set the `format` to 'Markdown'. Only update the Epics where State equals "New".
 
@@ -36,8 +36,8 @@ When the user wants to "clean up my epics", do the following:
 
 When the user wants to "create child stories for feature" and passes the work item Id, do the following:
 
-1. Get the feature for work item for `PetsWorkshop` project by Id. Get the comments for the work item as well.
+1. Get the feature for work item for `Tailspin-Shelter` project by Id. Get the comments for the work item as well.
 
-2. Fetch wiki page content from `https://dev.azure.com/PUnlimited/PetsWorkshop/_wiki/wikis/PetsWorkshop.wiki/6/Defining-Good-Features`
+2. Fetch wiki page content from `https://dev.azure.com/DevRelLabs/Tailspin-Shelter/_wiki/wikis/Tailspin-Shelter.wiki/Tailspin-Shelter.wiki/Defining-Good-Features`
 
-3. Go through the description, title and comments of the feature. Create child user stories based on the description and comments of the feature. Each user story should follow the guidelines in the wiki page `https://dev.azure.com/PUnlimited/PetsWorkshop/_wiki/wikis/PetsWorkshop.wiki/11/Defining-Good-User-Stories`. Use `wit_add_child_work_items` tool to create child work items. Create only necessary user stories. They need to have enough detail for coding agent to get work done. But not too much so that only one small change will be made per story. Use the area path and iteration path of the feature. Format of the description should be 'Markdown'. Set `format` to 'Markdown' when creating the user stories.
+3. Go through the description, title and comments of the feature. Create child user stories based on the description and comments of the feature. Each user story should follow the guidelines in the wiki page `https://dev.azure.com/DevRelLabs/Tailspin-Shelter/_wiki/wikis/Tailspin-Shelter.wiki/Tailspin-Shelter.wiki/Defining-Good-User-Stories`. Use `wit_add_child_work_items` tool to create child work items. Create only necessary user stories. They need to have enough detail for coding agent to get work done. But not too much so that only one small change will be made per story. Use the area path and iteration path of the feature. Format of the description should be 'Markdown'. Set `format` to 'Markdown' when creating the user stories.
