@@ -1,11 +1,5 @@
 {
-  "inputs": [
-    {
-      "id": "ado_org",
-      "type": "promptString",
-      "description": "Azure DevOps organization name  (e.g. 'contoso')"
-    }
-  ],
+  "inputs": [],
   "servers": {
     "ado": {
       "type": "stdio",
@@ -13,13 +7,16 @@
       "args": [
         "-y", 
         "@azure-devops/mcp", 
-        "${input:ado_org}", 
+        "DevRelLabs", 
         "-d", 
         "core", 
         "work", 
         "work-items", 
-        "wiki", 
-        "test-plans"]
+        "testplan", 
+        "pipelines"],
+      "env": {
+        "ado_mcp_project": "Tailspin-Shelter"
+      }
     }
   }
 }
